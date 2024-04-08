@@ -1,4 +1,4 @@
-# 🌸 Hi, I’m Ananya Singh 🌸
+# 🌸 Hello World!, I’m Ananya Singh 🌸
 Welcome to my GitHub. Explore some of my technical projects [here](https://github.com/ananyasingh8?tab=repositories).
 
 ## 🎀 About me
