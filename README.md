@@ -1,7 +1,7 @@
 # 🌸 Hi, I’m Ananya Singh 🌸
 Welcome to my GitHub. Explore some of my technical projects [here](https://github.com/ananyasingh8?tab=repositories).
 
-## About me
+## 🎀 About me
 I am a third-year, computing science and business major. Aspiring to grow as a computer scientist, I like to build fun coding projects.
 
 ## 📝 I am fluent in
