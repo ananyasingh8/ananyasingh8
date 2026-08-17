@@ -1,11 +1,8 @@
 # 🌸 Hello World! I’m Ananya Singh 🌸
-Welcome to my GitHub. Explore some of my technical projects [here](https://github.com/ananyasingh8?tab=repositories).
+Welcome to my GitHub. 
 
 ## 🎀 About me
-I am a third-year, computing science major. Aspiring to grow as a computer scientist, I like to build fun coding projects.
-
-## 📝 I am fluent in
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,c,cpp,js,py,matlab)](https://skillicons.dev)
+I am a fourth-year, computing science major. I started off as an aspiring Product Manager, but am now exploring opportunities in the AI welfare research space! 
 
 ## 💌 Reach out to me
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/ananyaxsingh/)
